@@ -141,6 +141,12 @@ namespace ScheduledMessages
         "He who has a why to live can bear almost any how. " +
         "§6- Friedrich Nietzsche§6",
         EnumChatType.Chat
+    ),
+    (
+        "§fThis is the age of the Seraph...§f " +
+        "Extinction is the rule. Survival is the exception. " +
+        "§6- Carl Sagan§6",
+        EnumChatType.Chat
     ),    
         };
 
