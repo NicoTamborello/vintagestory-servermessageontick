@@ -1,0 +1,19 @@
+[
+    {
+      "message": "§a[Tip]§f Store your items before logging out!",
+      "type": "Notification"
+    },
+    {
+      "message": "§6[Announcement]§f Server restart in 30 minutes.",
+      "type": "Server"
+    },
+    {
+      "message": "§b[Community]§f Join our Discord: §9discord.gg/example",
+      "type": "Chat"
+    },
+    {
+      "message": "§e[Help]§f Type §l/help§r for commands.",
+      "type": "Notification"
+    }
+  ]
+  
