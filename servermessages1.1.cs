@@ -15,33 +15,39 @@ namespace ScheduledMessages
         // §c = red §a = green §e = yellow §b = aqua §6 = gold §f = white
         private (string message, EnumChatType type)[] messages = new (string, EnumChatType)[]
         {
-            ("§a[Tip]§f Store your items before logging out!", EnumChatType.Chat),
-            ("§6[Announcement]§f Server restart in 30 minutes.", EnumChatType.Chat),
-            ("§b[Community]§f Join our Discord: §9discord.gg/example", EnumChatType.Chat),
-            ("§e[Help]§f Type §l/help§r for a list of commands.", EnumChatType.Chat)
+        (
+        "§f[Tip]§f " +
+        "Store your items before logging out! " +
+        "§eAnd don't forget to feed your animals!"
+        "§6- Author§6",
+        EnumChatType.Chat
+    ),
             (
-        "§a[Tip]§f " +
+        "§f[Tip]§f " +
         "Store your items before logging out! " +
         "§eAnd don't forget to feed your animals!"
         "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§6[Announcement]§f " +
-        "Server restart in 30 minutes. " +
-        "§cSave your progress now!",
+        "§f[Tip]§f " +
+        "Store your items before logging out! " +
+        "§eAnd don't forget to feed your animals!"
+        "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§b[Community]§f " +
-        "Join our Discord: §9discord.gg/example " +
-        "§7We host weekly events!",
+        "§f[Tip]§f " +
+        "Store your items before logging out! " +
+        "§eAnd don't forget to feed your animals!"
+        "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§e[Help]§f " +
-        "Type §l/help§r for commands. " +
-        "§dUse §l/spawn§r to return to spawn.",
+       "§f[Tip]§f " +
+        "Store your items before logging out! " +
+        "§eAnd don't forget to feed your animals!"
+        "§6- Author§6",
         EnumChatType.Chat
     )    
         };
