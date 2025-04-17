@@ -102,44 +102,44 @@ namespace ScheduledMessages
     ),
     (
         "§fThis is the age of the Seraph...§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "The Old Ones were, the Old Ones are, and the Old Ones shall be. Not in " +
+        "the spaces we know, but between them. They walk serene and primal, " +
+        "undimensioned and to us unseen. " +
+        "§6- H.P. Lovecraft§6",
         EnumChatType.Chat
     ),
     (
         "§fThis is the age of the Seraph...§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "It is only by way of pain one arrives at pleasure " +
+        "§6- Marquis de Sade§6",
         EnumChatType.Chat
     ),
     (
         "§fThis is the age of the Seraph...§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "Horror is the badge of humanity, worn proudly, self-righteously, and " +
+        "often falsely " +
+        "§6- Poppy Z. Brite, Exquisite Corpse§6",
         EnumChatType.Chat
     ),
     (
         "§fThis is the age of the Seraph...§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "It is sometimes an appropriate response to reality to go insane. " +
+        "§6- Philip K. Dick, VALIS§6",
         EnumChatType.Chat
     ),
     (
         "§fThis is the age of the Seraph...§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "We are not enemies, but friends. We must not be enemies. " +
+        "Though passion may have strained it must not break our bonds of affection. " +
+        "The mystic chords of memory, will yet swell when again touched, as surely " + 
+        "they will be, by the better angels of our nature " +
+        "§6- Abraham Lincoln§6",
         EnumChatType.Chat
     ),
     (
         "§fThis is the age of the Seraph...§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "He who has a why to live can bear almost any how. " +
+        "§6- Friedrich Nietzsche§6",
         EnumChatType.Chat
     ),    
         };
