@@ -55,8 +55,7 @@ namespace ScheduledMessages
     (
        "§fThis is the age of the Seraph...§f " +
         "And strange moons circle through the skies " +
-        "But Stranger still is " +
-        "Lost Carcosa. " +
+        "But Stranger still is Lost Carcosa." +
         "§6- Robert W. Chambers, The King in Yellow§6",
         EnumChatType.Chat
     )
