@@ -61,24 +61,22 @@ namespace ScheduledMessages
         EnumChatType.Chat
     )
     (
-        "§fWords§f " +
+        "§fThis is the age of the Seraph...§f " +
         "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn. " +
         "In his house at R'lyeh dead Cthulhu waits dreaming " +
         "§6- H.P. Lovecraft, The Call of Cthulhu§6",
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "§fThis is the age of the Seraph...§f " +
+        "A man can endure anything, as long as he knows the end will come. " +
+        "§6- Haruki Murakami§6",
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
+        "§fThis is the age of the Seraph...§f " +
+        "If you're going through hell, keep going." +
+        "§6- Winston Churchill§6",
         EnumChatType.Chat
     ),
     (
