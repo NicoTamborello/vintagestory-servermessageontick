@@ -80,63 +80,63 @@ namespace ScheduledMessages
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
+        "§fThis is the age of the Seraph...§f " +
+        "He who is not bold enough to be stared at  " +
+        "from across the abyss is not bold enough " +
+        "to stare into it himself " +
+        "§6- Memo, Silent Hill 2§6",
+        EnumChatType.Chat
+    ),
+    (
+        "§fThis is the age of the Seraph...§f " +
+        "The fear of blood tends to create fear for the flesh. " +
+        "§6- Silent Hill Opening§6",
+        EnumChatType.Chat
+    ),
+    (
+        "§fThis is the age of the Seraph...§f " +
+        "Notice that the stiffest tree is most easily cracked, while " +
+        "the bamboo or willow survives by bending with the wind. " +
+        "§6- Bruce Lee§6",
+        EnumChatType.Chat
+    ),
+    (
+        "§fThis is the age of the Seraph...§f " +
         "Words " +
         "Words " +
         "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
+        "§fThis is the age of the Seraph...§f " +
         "Words " +
         "Words " +
         "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
+        "§fThis is the age of the Seraph...§f " +
         "Words " +
         "Words " +
         "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
+        "§fThis is the age of the Seraph...§f " +
         "Words " +
         "Words " +
         "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
+        "§fThis is the age of the Seraph...§f " +
         "Words " +
         "Words " +
         "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§fWords§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
-        EnumChatType.Chat
-    ),
-    (
-        "§fWords§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
-        EnumChatType.Chat
-    ),
-    (
-        "§fWords§f " +
-        "Words " +
-        "Words " +
-        "§6- Author§6",
-        EnumChatType.Chat
-    ),
-    (
-        "§fWords§f " +
+        "§fThis is the age of the Seraph...§f " +
         "Words " +
         "Words " +
         "§6- Author§6",
