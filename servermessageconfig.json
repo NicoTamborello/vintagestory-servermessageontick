@@ -4,6 +4,6 @@
     "name": "Scheduled Messages",
     "description": "Displays automated, styled chat messages at regular intervals.",
     "version": "1.1.0",
-    "authors": ["YourName"],
+    "authors": ["ZoranWickers"],
     "requiredOnServer": true
   }
