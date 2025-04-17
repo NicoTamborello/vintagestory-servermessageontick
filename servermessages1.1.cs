@@ -15,39 +15,45 @@ namespace ScheduledMessages
         // §c = red §a = green §e = yellow §b = aqua §6 = gold §f = white
         private (string message, EnumChatType type)[] messages = new (string, EnumChatType)[]
         {
-        (
-        "§f[Tip]§f " +
-        "Store your items before logging out! " +
-        "§eAnd don't forget to feed your animals!"
-        "§6- Author§6",
+    (
+        "§fThis is the age of the Seraph...§f " +
+        "Lifes but a walking shadow, a poor player " +
+        "That struts and frets his hour upon the stage, " +
+        "And then is heard no more. It is a tale"
+        "Told by an idiot, full of sound and fury, " +
+        "Signifying nothing. " +
+        "§6- Macbeth§6",
         EnumChatType.Chat
     ),
-            (
-        "§f[Tip]§f " +
-        "Store your items before logging out! " +
-        "§eAnd don't forget to feed your animals!"
+    (
+        "§fWords§f " +
+        "Words " +
+        "Words " +
         "§6- Author§6",
         EnumChatType.Chat
     ),
     (
-        "§f[Tip]§f " +
-        "Store your items before logging out! " +
-        "§eAnd don't forget to feed your animals!"
-        "§6- Author§6",
+        "§fThis is the age of the Seraph...§f " +
+        "Prosperity knits a man to the world " +
+        "He feels that he is finding his place in it, " +
+        "while really it is finding its place in him. " +
+        "§6- C.S. Lewis§6",
         EnumChatType.Chat
     ),
     (
-        "§f[Tip]§f " +
-        "Store your items before logging out! " +
-        "§eAnd don't forget to feed your animals!"
-        "§6- Author§6",
+        "§fThis is the age of the Seraph...§f " +
+        "Prosperity knits a man to the world " +
+        "He feels that he is finding his place in it, " +
+        "while really it is finding its place in him. " +
+        "§6- C.S. Lewis§6",
         EnumChatType.Chat
     ),
     (
-       "§f[Tip]§f " +
-        "Store your items before logging out! " +
-        "§eAnd don't forget to feed your animals!"
-        "§6- Author§6",
+       "§fThis is the age of the Seraph...§f " +
+        "Prosperity knits a man to the world " +
+        "He feels that he is finding his place in it, " +
+        "while really it is finding its place in him. " +
+        "§6- C.S. Lewis§6",
         EnumChatType.Chat
     )    
         };
