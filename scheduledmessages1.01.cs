@@ -147,6 +147,16 @@ namespace ScheduledMessages
         "Extinction is the rule. Survival is the exception. " +
         "§6- Carl Sagan§6",
         EnumChatType.Chat
+    ),
+    (
+        "§fThis is the age of the Seraph...§f " +
+        "And it came to me that these trees had been hardly smaller when I was " +
+        "yet unborn, and had stood as they stood now when I was a child playing " +
+        "among the cypresses and peaceful tombs of our necropolis, and that they " +
+        "would stand yet, drinking in the last light of the dying sun, even as now, " +
+        "when I had been dead as long as those who rested there. " +
+        "§6- Gene Wolfe, The Book of the New Sun§6",
+        EnumChatType.Chat
     ),    
         };
 
