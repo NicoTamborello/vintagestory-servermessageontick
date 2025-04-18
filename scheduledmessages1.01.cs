@@ -8,7 +8,7 @@ namespace ScheduledMessages
     {
         private ICoreServerAPI sapi;
         private double lastMessageTime = 0;
-        private double messageInterval = 600; // 10 minutes in seconds
+        private double messageInterval = 60; // was 600 for 10 minutes in seconds - set to 60 seconds now
         private int messageIndex = 0;
         
         // Each message has content and a message type
@@ -23,7 +23,7 @@ namespace ScheduledMessages
         "Told by an idiot, full of sound and fury, " +
         "Signifying nothing. " +
         "§6- Macbeth§6",
-        EnumChatType.Chat
+        EnumChatType.Server
     ),
     (
         "§fThis is the age of the Seraph...§f " +
@@ -37,7 +37,7 @@ namespace ScheduledMessages
         "He feels that he is finding his place in it, " +
         "while really it is finding its place in him. " +
         "§6- C.S. Lewis§6",
-        EnumChatType.Chat
+        EnumChatType.Server
     ),
     (
         "§fThis is the age of the Seraph...§f " +
@@ -90,7 +90,7 @@ namespace ScheduledMessages
         "§fThis is the age of the Seraph...§f " +
         "The fear of blood tends to create fear for the flesh. " +
         "§6- Silent Hill Opening§6",
-        EnumChatType.Chat
+        EnumChatType.Server
     ),
     (
         "§fThis is the age of the Seraph...§f " +
