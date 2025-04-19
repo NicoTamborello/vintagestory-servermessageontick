@@ -45,7 +45,7 @@ namespace ScheduledMessages
 
         private void OnTick(float deltaTime)
         {
-            if (messages.Count == 0) return;
+            if (messages.Length == 0) return;
 
             if (DateTime.Now - lastMessageTime >= messageInterval)
             {
@@ -54,8 +54,13 @@ namespace ScheduledMessages
                 var (msg, type) = messages[messageIndex];
                 sapi.SendMessageToGroup(0, msg, type);
 
-                messageIndex = (messageIndex + 1) % messages.Count;
+                messageIndex = (messageIndex + 1) % messages.Length;
             }
-        }; 
+        }
+    }
+}
+
+
+ 
 
 
